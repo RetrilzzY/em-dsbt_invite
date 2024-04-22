@@ -1,3 +1,6 @@
-# em-dsbt_invite
+<hr>
 
-## Подробнее в репозитории [emika-docs](https://github.com/RetrilzzY/emika-docs)
+> [!WARNING]
+> **Проект EM-DSbt (Emika) был закрыт, но спустя некоторое время был доработан, возобновлен и переименован в [RZX-bot](https://rzx-bot.top)**
+
+<hr>
